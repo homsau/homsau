@@ -1,10 +1,10 @@
-### Hi There 👋
+# Hey There 👋
 
 I'm James. I'm a Full Stack Web Developer.
+
 <!--
 **homsau/homsau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an e-commerce React app with Firebase authentication! Check it out <a href="www.github.com/homsau/react-store">here!</a>
 - 🌱 I’m currently learning Redux and Typescript.
@@ -17,8 +17,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+## About
 
 [![Homsau's GitHub stats](https://github-readme-stats.vercel.app/api?username=homsau&count_private=true&show_icons=true&?theme=cobalt&icon_color=orange)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Projects
+
+
+
+## Find Me
+
+<a href="https://www.linkedin.com/in/james-cowart/">
+  <i class="fab fa-linkedin-in"></i>
+</a>
+<br>
