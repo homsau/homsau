@@ -24,14 +24,3 @@ I'm James. I'm a Full Stack Web Developer.
 [![Homsau's GitHub stats](https://github-readme-stats.vercel.app/api?username=homsau&count_private=true&show_icons=true&?theme=cobalt&icon_color=orange)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Projects
-
-
-
-## Find Me
-
-<a href="https://www.linkedin.com/in/james-cowart/">
-  #### <i class="fab fa-linkedin-in"></i>
-</a>
-<br>
