@@ -32,6 +32,6 @@ I'm James. I'm a Full Stack Web Developer.
 ## Find Me
 
 <a href="https://www.linkedin.com/in/james-cowart/">
-  @icon-linkedin-in
+  #### <i class="fab fa-linkedin-in"></i>
 </a>
 <br>
