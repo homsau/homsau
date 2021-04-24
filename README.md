@@ -1,4 +1,4 @@
-# Hey There 👋
+# Hey There :metal:
 
 I'm James. I'm a Full Stack Web Developer.
 
@@ -6,9 +6,9 @@ I'm James. I'm a Full Stack Web Developer.
 **homsau/homsau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on an e-commerce React app with Firebase authentication! Check it out <a href="www.github.com/homsau/react-store">here!</a>
-- 🌱 I’m currently learning Redux and Typescript.
-- 🌎 I'm currently looking for new opportunities. 
+- :construction_worker: I’m currently working on an e-commerce React app with Firebase authentication! Check it out <a href="www.github.com/homsau/react-store">here!</a>
+- :dizzy: I’m currently learning Redux and Typescript.
+- :eyes: I'm currently looking for new opportunities. 
 <!--- 
 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
