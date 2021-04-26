@@ -7,7 +7,7 @@ I'm James. I'm a Full Stack Web Developer.
 -->
 
 - :construction_worker: I’m currently working on an e-commerce React app with Firebase authentication! Check it out <a href="www.github.com/homsau/react-store">here!</a>
-- :dizzy: I’m currently learning Redux and Typescript.
+- :dizzy: I’m currently learning Docker, Redux and Typescript.
 - :eyes: I'm currently looking for new opportunities. 
 <!--- 
 👯 I’m looking to collaborate on ...
