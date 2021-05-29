@@ -19,6 +19,6 @@ I'm James. I'm a Full Stack Web Developer.
 -->
 ---
 
-[![Homsau's GitHub stats](https://github-readme-stats.vercel.app/api?username=homsau&count_private=true&show_icons=true&?theme=cobalt&icon_color=orange)](https://github.com/anuraghazra/github-readme-stats)
+[![Homsau's GitHub stats](https://github-readme-stats.vercel.app/api?username=homsau&count_private=true&show_icons=true&theme=outrun&title_color=ff7700&icon_color=39ff14)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=glsl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=rust,glsl&langs_count=4&theme=outrun&title_color=ff7700&icon_color=39ff14)](https://github.com/anuraghazra/github-readme-stats)
