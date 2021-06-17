@@ -6,7 +6,7 @@ I'm James. I'm a Full Stack Web Developer.
 **homsau/homsau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- :construction_worker:&nbsp;&nbsp;I’m currently working on an e-commerce React app with Firebase authentication! Check it out <a href="github.com/homsau/react-redux-firebase-store">here!</a>
+- :construction_worker:&nbsp;&nbsp;I’m currently working on an e-commerce React app with Firebase authentication! Check it out <a href="https://github.com/homsau/react-redux-firebase-store">here!</a>
 - :dizzy:&nbsp;&nbsp;I’m currently learning Docker, Redux and Typescript.
 - :eyes:&nbsp;&nbsp;I'm currently looking for new opportunities. 
 <!--- 
